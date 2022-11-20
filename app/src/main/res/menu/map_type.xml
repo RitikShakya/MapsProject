@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/normal"
+        android:title="Default"></item>
+    <item android:id="@+id/satellite"
+        android:title="Satellit"></item>
+
+    <item android:id="@+id/terrain"
+        android:title="Terrain"></item>
+
+
+</menu>

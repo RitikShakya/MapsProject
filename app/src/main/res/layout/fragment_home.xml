@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    tools:context=".Home"-->
+<!--    android:id="@+id/home">-->
+
+<!--    &lt;!&ndash; TODO: Update blank fragment layout &ndash;&gt;-->
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:text="@string/hello_blank_fragment" />-->
+
+<!--</FrameLayout>-->
+
+
+<fragment
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Home"
+    />
+
+
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    tools:context=".Home"-->
+<!--    android:id="@+id/home"-->
+<!--    android:orientation="vertical"-->
+<!--    android:background="@color/grey"-->
+
+<!--    android:layout_gravity="center"-->
+<!--    >-->
+
+<!--    &lt;!&ndash; TODO: Update blank fragment layout &ndash;&gt;-->
+<!--    &lt;!&ndash;    <LinearLayout&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_height="wrap_content"&ndash;&gt;-->
+<!--    &lt;!&ndash;&lt;!&ndash;        android:orientation="vertical">&ndash;&gt;&ndash;&gt;-->
+
+<!--    &lt;!&ndash;    <include layout="@layout/toolbar1"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_height="match_parent">&ndash;&gt;-->
+
+<!--    &lt;!&ndash;    </include>&ndash;&gt;-->
+
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:text="@string/hello_blank_fragment" />-->
+
+<!--    &lt;!&ndash;        <EditText&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:layout_width="300dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:layout_gravity="center"&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:layout_height="50dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:text="Title"&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:layout_marginTop="50dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;            />&ndash;&gt;-->
+<!--    &lt;!&ndash;        <EditText&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:layout_width="300dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:layout_gravity="center"&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:layout_height="50dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:text="Title"&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:layout_marginTop="50dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;            />&ndash;&gt;-->
+<!--    &lt;!&ndash;        <EditText&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:layout_width="300dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:layout_gravity="center"&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:layout_height="50dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:text="Title"&ndash;&gt;-->
+<!--    &lt;!&ndash;            android:layout_marginTop="50dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;            /><EditText&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_width="300dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_gravity="center"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_height="50dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:text="Title"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_marginTop="50dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;        />&ndash;&gt;-->
+
+
+<!--    &lt;!&ndash;    </LinearLayout>&ndash;&gt;-->
+<!--</LinearLayout>-->
